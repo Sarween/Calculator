@@ -496,6 +496,7 @@ public class Calculator {
                 break;
         }
     };
+    
     public static void main(String[] args) {
         new Calculator();
     }
