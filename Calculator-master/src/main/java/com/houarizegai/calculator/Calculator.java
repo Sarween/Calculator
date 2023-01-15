@@ -427,7 +427,7 @@ public class Calculator {
 
         window.setLayout(null);
         window.setResizable(false);
-        window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // Close button clicked? = End The process
+        window.setDefaultCloseOperation(javax.swing.WindowsContstants.EXIT_ON_CLOSE); // Close button clicked? = End The process
         window.setVisible(true);
     }
 
